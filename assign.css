@@ -1,0 +1,20 @@
+.img-thumbnail{
+    margin:auto;
+    width:  400px;
+    height: 400px;
+    object-fit: cover;
+    padding:12px;
+}
+
+
+
+.jumbotron{
+margin:auto;
+align:center;
+width:1300px;
+height:200px;
+
+background-image:url("/Assignmnet/img/img_7.jpg");
+border-radius:20px;
+padding:20px;
+}
